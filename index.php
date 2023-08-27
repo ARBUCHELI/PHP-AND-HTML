@@ -7,3 +7,4 @@
 ?>
 </body>
 </html>
+<!--PHP IN HTML-->
